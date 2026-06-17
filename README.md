@@ -1,16 +1,45 @@
-## Hi there 👋
+# Hi there 👋
 
-<!--
-**tyhuynh03/tyhuynh03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Ty Huynh, a Fresher Software Engineer from Vietnam.
 
-Here are some ideas to get you started:
+## 🚀 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🎓 Recent graduate in Information Technology
+- 💻 Interested in Backend Development
+- 🐍 Learning and building projects with Python & Django
+- ⚛️ Exploring ReactJS for frontend development
+- 🐳 Working with Docker and PostgreSQL
+- 🌱 Continuously improving my software engineering skills
+
+## 🛠️ Tech Stack
+
+### Backend
+- Python
+- Django
+- Django REST Framework
+
+### Frontend
+- ReactJS
+- JavaScript
+- HTML/CSS
+
+### Database
+- PostgreSQL
+- MySQL
+
+### Tools
+- Git
+- Docker
+- Jenkins
+
+## 🎯 Current Focus
+
+- Backend Development with Django
+- REST API Design
+- Database Optimization
+- ERP/MES Systems
+
+## 📫 Connect With Me
+
+- LinkedIn: ...
+- Email: ...
