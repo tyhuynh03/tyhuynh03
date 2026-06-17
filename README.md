@@ -43,6 +43,6 @@ I'm Ty Huynh, a Fresher Software Engineer from Vietnam.
 
 - LinkedIn: ...
 - Email: ...
-🛠️ Languages and Tools
+## 🛠️ Languages and Tools
 
 [![My Skills](https://skillicons.dev/icons?i=python,django,react,docker,postgres,git,linux)](https://skillicons.dev)
